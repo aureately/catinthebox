@@ -1,0 +1,28 @@
+{
+  "name": "catinthebox",
+  "version": "0.0.1",
+  "homepage": "https://github.com/stanzheng/catinthebox",
+  "authors": [
+    "stanley zheng <dev.stanzheng@gmail.com>"
+  ],
+  "description": "html5 game using phaserjs about a cat named waffles",
+  "main": "index.html",
+  "keywords": [
+    "game",
+    "phaser",
+    "html5",
+    "waffles"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser-official": "~2.0.7"
+  }
+}
