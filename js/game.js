@@ -1,5 +1,5 @@
 
-var game = new Phaser.Game(800, 600, Phaser.CANVAS, 'phaser-example', { create: create });
+var game = new Phaser.Game(800, 600, Phaser.CANVAS, 'game', { create: create });
 
 function create() {
   var text = "Cat In the Box";
